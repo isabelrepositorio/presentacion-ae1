@@ -1,0 +1,10 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+- file: noticias
+- file: tienda
+- file: faqs
+  sections:
+    - file: quienesSomos
+    - file: contacto
